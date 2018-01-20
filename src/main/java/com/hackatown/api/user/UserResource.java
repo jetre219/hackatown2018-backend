@@ -1,18 +1,18 @@
-package com.hackatown.api;
+package com.hackatown.api.user;
 
+import com.hackatown.api.user.dto.LoginStatusDto;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.security.Principal;
 
 @RestController
 @RequestMapping("/users")
 public class UserResource {
 
     @PostMapping("/authenticate")
-    public void authenticate(Principal principal){
-
+    public void authenticate(@RequestBody LoginStatusDto loginStatusDto){
+        boolean test = true;
     }
 
 }
