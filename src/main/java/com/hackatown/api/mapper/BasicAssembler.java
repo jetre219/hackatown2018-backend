@@ -1,4 +1,4 @@
-package com.hacktatown.api.mapper;
+package com.hackatown.api.mapper;
 
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.hacktatown.repository;
+package com.hackatown.repository;
 
 import org.springframework.stereotype.Repository;
 

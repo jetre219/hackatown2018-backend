@@ -1,4 +1,4 @@
-package com.hacktatown.service;
+package com.hackatown.service;
 
 import org.springframework.stereotype.Service;
 

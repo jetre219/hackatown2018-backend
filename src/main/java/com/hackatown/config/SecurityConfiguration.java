@@ -1,4 +1,4 @@
-package com.hacktatown.config;
+package com.hackatown.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

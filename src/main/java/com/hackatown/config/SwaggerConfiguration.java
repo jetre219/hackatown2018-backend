@@ -1,4 +1,4 @@
-package com.hacktatown.config;
+package com.hackatown.config;
 
 import java.util.Collections;
 
